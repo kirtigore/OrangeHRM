@@ -1,1 +1,1 @@
-# OrangeHRM
+# OrangHRM Manual TestCases
